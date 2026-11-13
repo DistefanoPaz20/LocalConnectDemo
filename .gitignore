@@ -1,0 +1,13 @@
+.tools/
+.env
+.env.*
+!.env.example
+**/localconnect-config.php
+*.sqlite
+*.sqlite-*
+*.log
+localconnect/node_modules/
+localconnect/dist/
+localconnect/var/
+localconnect/config.local.php
+localconnect/release/
